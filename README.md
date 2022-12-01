@@ -41,4 +41,11 @@ http://flowgorithm.org/download/index.html
   wine64 Flowgorithm.exe
 ```
 
+It looks like this
+
+  ![screenshot](screenshot.jpg)
+
 Next time, you just just need to execute the last step to run Flowgorithm on Linux.
+
+
+Emanuele & Sibilla
